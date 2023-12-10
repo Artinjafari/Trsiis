@@ -1,1 +1,1 @@
-# Trsiis
+# bridgezan-theme
